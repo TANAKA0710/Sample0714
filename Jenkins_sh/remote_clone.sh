@@ -1,1 +1,1 @@
-git clone -b develop https://github.com/TANAKA0710/Sample0714.git remote_clone 
+git clone -b develop https://github.com/TANAKA0710/Sample0714.git C:/Users/SR031970/Desktop/remote_clone 
